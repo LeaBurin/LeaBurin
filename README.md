@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeaBurin, a PhD student in English linguistics at Université de Paris Cité
+- 👋 Hi, I’m @LeaBurin, a PhD student in English linguistics at Université Paris Cité
 - 👀 I’m interested in sociophonetics, voice quality, and SLA (among others)
 
 <!---
